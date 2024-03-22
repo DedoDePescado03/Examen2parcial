@@ -1,3 +1,4 @@
+#Gael Loreto Miranda 22/03/2024 
 import random
 
 # Lista de palabras para adivinar
